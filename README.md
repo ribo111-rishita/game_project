@@ -42,14 +42,12 @@ flappy-bird/
 2. Open `index.html` in your browser.
 3. Start playing!
 
-## 📸 Screenshots
-*(Include some screenshots of the game in action!)*
+
 
 ## 🤝 Contributing
 Feel free to contribute by submitting a pull request or suggesting improvements.
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
 
 ---
 🎉 Have fun playing Flappy Bird! 🚀
